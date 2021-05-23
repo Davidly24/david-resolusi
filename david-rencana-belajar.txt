@@ -1,0 +1,5 @@
+RENCANA BELAJAR DAVID
+
+- Belajar form html
+- Belajar selector css
+- Belajar fuction javascript

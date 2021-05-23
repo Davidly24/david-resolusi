@@ -3,5 +3,6 @@ RENCANA BELAJAR DAVID
 - Belajar form html
   * Method & Action
   * Table
+- Belajar Position Css
 - Belajar selector css
 - Belajar fuction javascript

@@ -1,6 +1,7 @@
 David Resolusi
 - Konsisten belajar ngoding setiap hari
+- Jago Html & Css
+- Jago Javascript
+- Jago Document Object Model
 - Jadi Front-End Devoloper Handal
 - Rajin Beribadah
-- Kerja Sesuai Dengan Phasion
-- Menjadi Web Designer Handal

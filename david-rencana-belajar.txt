@@ -4,5 +4,7 @@ RENCANA BELAJAR DAVID
   * Method & Action
   * Table
 - Belajar Position Css
-- Belajar selector css
+  * Flex Box
+  * Layouting
 - Belajar fuction javascript
+  * While

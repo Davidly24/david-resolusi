@@ -1,5 +1,7 @@
 RENCANA BELAJAR DAVID
 
 - Belajar form html
+  * Method & Action
+  * Table
 - Belajar selector css
 - Belajar fuction javascript

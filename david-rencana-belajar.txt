@@ -4,5 +4,9 @@ RENCANA BELAJAR DAVID
   * Method & Action
   * Table
 - Belajar Position Css
+  * Margin dan Padding
+  * Centering Content
 - Belajar selector css
 - Belajar fuction javascript
+  * if else
+- Belajar PHP

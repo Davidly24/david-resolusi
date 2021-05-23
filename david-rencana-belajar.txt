@@ -4,7 +4,9 @@ RENCANA BELAJAR DAVID
   * Method & Action
   * Table
 - Belajar Position Css
-  * Flex Box
-  * Layouting
+  * Margin dan Padding
+  * Centering Content
+- Belajar selector css
 - Belajar fuction javascript
-  * While
+  * if else
+- Belajar PHP
